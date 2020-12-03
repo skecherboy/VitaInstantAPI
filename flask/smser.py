@@ -27,5 +27,5 @@ class smsSender:
         
 
 
-tester = smsSender().sendSMS('15624725004', "Pills have been dispensed for Carlos")
+tester = smsSender().sendSMS('number here', "Pills have been dispensed for Carlos")
 print(tester)
