@@ -24,5 +24,5 @@ class emailSender:
             server.sendmail(sender_email, emailAddress, message) # Send Message
 
         return 'email sent'
-tester = emailSender().sendEmail('ornlmugen13@gmail.com','Mike', "Carlos")
+tester = emailSender().sendEmail('testEmail@gmail.com','Mike', "Carlos")
 print(tester)
