@@ -1,4 +1,6 @@
 ## Overview ##
+Please refer to the VitaInstant Final Report for more details. 
+
 This API was created for project Vitainstant.
 VitaInstant is a prototypical medication/supplement 
 dispenser device made for CSULB's senior project course.
