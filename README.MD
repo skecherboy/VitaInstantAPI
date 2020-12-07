@@ -1,5 +1,5 @@
 ## Overview ##
-Please refer to the VitaInstant Final Report for more details. 
+Please refer to the VitaInstant Final Report HERE<https://github.com/skecherboy/VitaInstant-Final-Report> for more details. 
 
 This API was created for project Vitainstant.
 VitaInstant is a prototypical medication/supplement 
